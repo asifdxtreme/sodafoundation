@@ -1,8 +1,8 @@
 [submodule "delfin"]
-	path = delfin
+	path = pkg/delfin
 	url = git@github.com:sodafoundation/delfin.git
 [submodule "api"]
-	path = api
+	path = pkg/api
 	url = git@github.com:sodafoundation/api.git
 [submodule "controller"]
 	path = controller
